@@ -1,0 +1,25 @@
+_repo: A-Complete-Guide-to-the-Ornamental-Leather-Work_41927
+_version: 0.1.0
+alternative_title: Revell's complete guide to ornamental leather work
+covers:
+- cover_type: archival
+  image_path: 41927-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Revell, James
+    gutenberg_agent_id: '41432'
+    url: http://www.gutenberg.org/2009/agents/41432
+description: ''
+gutenberg_issued: '2013-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Leatherwork'
+title: A Complete Guide to the Ornamental Leather Work
+url: http://www.gutenberg.org/ebooks/41927
